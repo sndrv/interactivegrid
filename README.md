@@ -8,3 +8,6 @@ The workings of the grid can be changed by setting a "mode". In each mode a numb
 
 This first version of the script is optimised to create an interactive scene at a spot where people pass by or stand still briefly. Delay for falling of a ball is set at 1. After 4.5 seconds fallen balls are repositioned back into the grid (and their color is set to invisible, which leaves the collision detection active)
 
+![Lens Studio screenshot](https://github.com/sndrv/interactivegrid/blob/main/LensStudio.png?raw=true)
+
+
